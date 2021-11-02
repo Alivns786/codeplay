@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("C: \Users\Ali-PC\Desktop\bootstrap\panda.jpg");
+}
+
+p {
+    top: 100px;
+    text-align: left;
+    font-size: medium;
+    text-decoration: dashed;
+    color: black;
+    font-weight: lighter;
+}
